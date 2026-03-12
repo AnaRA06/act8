@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="act8/act8.Client/act8.Client.csproj" />
+  <Project Path="act8/act8/act8.csproj" />
+</Solution>
